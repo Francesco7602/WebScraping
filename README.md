@@ -13,6 +13,6 @@ Include strumenti per la pulizia dei dataset, l'analisi temporale delle transazi
 - **Centralità della rete**: Calcolo delle centralità di grado, intermediazione, closeness ed eigenvector.
 
  ## Output generati
-    Grafici temporali: Mostrano la congestione della rete e le fee medie.
-    Grafici delle centralità: Evidenziano nodi cruciali per la rete.
-    Visualizzazioni del grafo: Rappresentano i percorsi dei bitcoin.
+ - Grafici temporali: Mostrano la congestione della rete e le fee medie.
+ - Grafici delle centralità: Evidenziano nodi cruciali per la rete.
+ - Visualizzazioni del grafo: Rappresentano i percorsi dei bitcoin.
